@@ -1,6 +1,4 @@
-📄 [Full Project Report](NLP_Project_Report_Aditya.pdf) | 📓 [Notebook]("NLP (1).ipynb)
-
-
+📄 [Full Project Report](NLP_Project_Report_Aditya.pdf) | 📓 [Notebook](NLP (1).ipynb)
 
 # Multi-Domain Sentiment Analysis using BERT with Transfer Learning Evaluation
 
