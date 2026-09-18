@@ -1,6 +1,7 @@
 📄 [Full Project Report](NLP_Project_Report_Aditya.pdf) | 📓 [Notebook](NLP_BERT_Sentiment_Notebook.ipynb)
 
 # Multi-Domain Sentiment Analysis using BERT with Transfer Learning Evaluation
+🚀 [Live Demo](https://multi-domain-sentiment-bert-gg9d7jakj6xcz7xbcggbts.streamlit.app/)
 
 Compares classical ML models (Naive Bayes, Logistic Regression, SVM) against a fine-tuned BERT model for sentiment classification across three domains: movie reviews (IMDB), product reviews (Amazon), and tweets (TweetEval).
 
